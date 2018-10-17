@@ -1,3 +1,10 @@
+/*
+Bryton Lunceford
+10/15/18
+Finds variables
+*/
+
+
 import java.util.Scanner;
  
 public class Ex3_3 {
