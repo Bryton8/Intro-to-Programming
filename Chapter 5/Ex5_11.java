@@ -1,3 +1,9 @@
+/*
+Bryton Lunceford
+11/15/18
+Find divisible by 5 or 6
+*/
+
 class Ex5_11 {
 	public static void main(String[] args) {
 		
